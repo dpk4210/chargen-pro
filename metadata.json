@@ -1,0 +1,5 @@
+{
+  "name": "CharGen Pro",
+  "description": "Professional Character Generator utilizing Gemini 2.5 Flash for high-fidelity, customized character portraits with detailed physical attribute controls.",
+  "requestFramePermissions": []
+}
